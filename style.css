@@ -1,0 +1,48 @@
+body {
+background-color: black;
+font-family:'Times New Roman', Times, serif;
+color:rgba(244, 251, 251, 0.922);
+text-align: left;
+}
+
+#heading{
+    text-align: left;
+    text-decoration: underline;
+    color: turquoise;
+}
+input, textarea {
+    width: 200px;
+    height: fit-content;
+    border-radius: 5px;
+    border: 1px solid #e99905;
+    font-size: 16px;
+}
+label{
+    display: block;
+    font-weight: bold;
+    margin-top: 10px;
+}
+button {
+   background-color: rgb(4, 109, 55);
+   border: none;
+   border-radius: 5px;
+   font-size: 16px;
+}
+
+.highlight{
+    color: white;
+   font-size: 20px;
+   font-family:'Times New Roman', Times, serif;
+  
+}
+img{
+   border: 2px solid white;
+   border-radius: 5px;
+   margin: 20px 200px;
+   padding: 30px 20px;
+  }
+footer{
+   text-align: center;
+   font-weight: bold;
+   font-style: italic;
+}
